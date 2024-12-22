@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "simple facebook messenger bot",
   "main": "ryuko/catalogs/ryukoa.js",
-  "scripts": {
-    "start": "node ryuko/catalogs/ryukoa.js"
-  },
   "engines": {
 		"node": "18.x",
 		"npm": ">=7.0.0"
