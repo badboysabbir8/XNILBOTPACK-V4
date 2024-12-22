@@ -2,7 +2,7 @@
   "name": "ryuko",
   "version": "1.0.0",
   "description": "simple facebook messenger bot",
-  "main": "index.js",
+  "main": "ryuko/catalogs/ryukoa.js",
   "engines": {
     "node": "16.x",
     "npm": ">=7.0.0"
