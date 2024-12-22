@@ -4,8 +4,8 @@
   "description": "simple facebook messenger bot",
   "main": "ryuko/catalogs/ryukoa.js",
   "engines": {
-		"node": "18.x",
-		"npm": ">=7.0.0"
+    "node": "18.x",
+    "npm": ">=7.0.0"
   },
   "author": "ryuko",
   "license": "ISC",
@@ -16,7 +16,7 @@
     "https-proxy-agent": "^4.0.0",
     "mqtt": "^3.0.0",
     "request": "^2.88.2",
-    "websocket-stream": "^5.5.0"
+    "websocket-stream": "^5.5.0",
     "aes-js": "^3.1.2",
     "chalkercli": "^1.6.0",
     "child_process": "^1.0.2",
