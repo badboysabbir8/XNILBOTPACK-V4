@@ -1,6 +1,6 @@
 "use strict";
 
-const utils = require("ws3-fca/utils");
+const utils = require("ryuko/system/ws3-fca/utils");
 
 // @NethWs3Dev
 module.exports = (defaultFuncs, api, ctx) => {
