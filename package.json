@@ -6,6 +6,10 @@
   "scripts": {
     "start": "node ryuko/catalogs/ryukoa.js"
   },
+  "engines": {
+		"node": "18.x",
+		"npm": ">=7.0.0"
+  },
   "author": "ryuko",
   "license": "ISC",
   "dependencies": {
