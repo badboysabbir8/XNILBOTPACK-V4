@@ -2,9 +2,9 @@
   "name": "ryuko",
   "version": "1.0.0",
   "description": "simple facebook messenger bot",
-  "main": "ryuko.js",
+  "main": "index.js",
   "engines": {
-    "node": "18.x",
+    "node": "16.x",
     "npm": ">=7.0.0"
   },
   "author": "ryuko",
